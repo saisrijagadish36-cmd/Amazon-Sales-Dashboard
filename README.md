@@ -1,4 +1,4 @@
-<img width="1431" height="803" alt="Screenshot 2026-03-12 171818" src="https://github.com/user-attachments/assets/d5dc912f-db20-461a-867d-b05e1138b516" /># 🛒 Amazon Sales Dashboard
+# 🛒 Amazon Sales Dashboard
 
 📌 Project Overview
 This project analyzes Amazon Sales data from Kaggle using Python and Power BI to find key business insights for an Indian fashion e-commerce business.
